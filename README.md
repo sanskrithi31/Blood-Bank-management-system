@@ -1,4 +1,4 @@
-# Blood Donation and Management System
+# Blood Donation Management System
 Welcome to the Blood Bank Management System! This project is designed to help manage blood donations, track inventory, and streamline the donation process. 
 
 ## Getting Started
